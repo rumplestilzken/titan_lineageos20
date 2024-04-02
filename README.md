@@ -33,4 +33,6 @@ This project aims to make it very easy to get LineageOS 20 on your Unihertz devi
 * Nomi
 * 33YN2
 * tommel2
+
+[Donate Here](https://rumplestilzken.neocities.org/#Donations)
   
